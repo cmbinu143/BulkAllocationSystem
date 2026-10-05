@@ -1,0 +1,6 @@
+@BulkAllocation.Api_HostAddress = http://localhost:5145
+
+GET {{BulkAllocation.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
